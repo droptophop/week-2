@@ -3,8 +3,8 @@
 ## RDBMS [Relational Database Management System]
 
 + SQL
-+ Normalization
-+ Multiplicity
++ Normalization = the ability to reduce reduncancy and maintain efficient data integrity within relational data (quality)
++ Multiplicity = strength of relationship between records (quantity)
 + DML = data manipulation language
 + DDL = data definition language
 + ACID = atomic, consistent, isolated, durable (with transaction)
