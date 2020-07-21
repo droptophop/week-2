@@ -13,4 +13,7 @@
 
 + Entity Framework Core
 + DbContext = data-first approach
-+ Integration
++ Integration Testing
++ Eager Loading
++ Lazy Loading
++ LINQ = language integrated query
